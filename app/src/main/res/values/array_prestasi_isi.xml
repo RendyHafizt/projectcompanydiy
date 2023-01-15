@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_prestasi_isi">
+        <!-- Penghargaan -->
+        <item>
+            1. MR.DIY Deloitte Malaysia Best Managed Companies Award (2022)
+            2. Frost Sullivan Best Practices Award 2022 - Malaysia Home Improvement Retail Company of the Year Award (2022)
+            3. World Branding Awards Brand of the Year (2020-2021)
+            4. World Branding Awards Brand of the Year (2019-2020)
+            5. The BrandLaureate Award Best Brand Leadership in Retail Home Improvement (2018-2019)
+            6. World Branding Awards Brand of the Year (2018-2019)
+        </item>
+        <!-- Pencapaian -->
+        <item>
+            1. 2005 - Toko Pertama MR.DIY di Kuala Lumpur,Malaysia
+            2. 2017 - Toko Pertama MR.DIY di Indonesia di Mega Bekasi Hyper Mall,Jawa Barat
+            3. 2018 - Toko ke 50 MR.DIY di Indonesia di Bogor Indah Plaza,Jawa Barat
+            4. 2019 - Toko ke 100 di Pluit Village,Jakarta
+            5. 2019 - Toko ke 150 di Duta Mall, Banjarmasin
+            6. 2020 - Toko ke 200 di Saga Mall Abepura,Jayapura
+            7. 2021 - Toko ke 250 di Ruko Tegal Rejo,Yogyakarta
+            8. 2021 - Toko ke 300 di Ruko Sisingamangara Sibolga,Sumatera Utara
+        </item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CompanyDIY</string>
+
+    <string name="Copyright">Feronika Milla © 2022 \n IKIP PGRI PONTIANAK</string>
+    <string name="eUsername">Username</string>
+    <string name="ePassword">Password</string>
+
+    <string name="tjudul">Jenis Prestasi</string>
+    <string name="tisi">Isi Prestasi</string>
+</resources>
